@@ -12,15 +12,16 @@
 
 <p>El proyecto se enfocará en: 
 
-- Un frontend sencillo que permita a las usuarias registrarse y responder encuestas básicas.  
-- Un backend en Python encargado de procesar los datos y almacenarlos en archivos locales (CSV/JSON).  
-- Funciones simples de análisis.  
+- Un frontend sencillo que permita a las usuarias registrarse y responder encuestas básicas.
+- Un backend en Python encargado de procesar los datos y almacenarlos en archivos locales (CSV/JSON).
+- Funciones simples de análisis.
 - Uso de Git y GitHub para llevar el control de versiones.
+
 </p>
 
 ## 3. Usuarios del sistema
-<p>El sistema estará diseñado principalmente para mujeres jóvenes en situación de vulnerabilidad que requieran apoyo profesional. Además, psicólogas y otras profesionales tendrán acceso a la plataforma para realizar el debido monitoreo y brindar acompañamiento adecuado. Finalmente, el equipo de desarrollo se encargará del mantenimiento y mejora continua de la plataforma.</p>
 
+<p>El sistema estará diseñado principalmente para mujeres jóvenes en situación de vulnerabilidad que requieran apoyo profesional. Además, psicólogas y otras profesionales tendrán acceso a la plataforma para realizar el debido monitoreo y brindar acompañamiento adecuado. Finalmente, el equipo de desarrollo se encargará del mantenimiento y mejora continua de la plataforma.</p>
 
 ## 4. Funcionalidades iniciales
 
@@ -31,6 +32,30 @@ En la primera entrega se desarrollarán las siguientes funcionalidades:
 - Gestión de archivos locales: almacenamiento de información en CSV/JSON de manera organizada.
 - Control de versiones: repositorio en GitHub con ramas, commits descriptivos y pull requests.
 
+
+## 5. Ejecución del proyecto y pruebas
+
+### Requisitos previos
+
+- Tener instalado Python (recomendado 3.8 o superior).
+- Instalar las dependencias necesarias
+
+### Ejecución de la aplicación
+
+1. Clona el repositorio:
+   ```bash
+   git clone <https://github.com/valenOrozco/proyectoIntegrador>
+   cd <proyectoIntegrador>
+   ```
+2. Ejecuta el main:
+   ```bash
+   main.py
+   ```
+
+### Ejecución de pruebas
+
+```bash
+py test.py
+   ```
+
 ---
-
-
