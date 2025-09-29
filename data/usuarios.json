@@ -1,0 +1,18 @@
+[
+    {
+        "documento": "1023630311",
+        "nombre": "Valentina",
+        "apellidos": "Galeano Orozco",
+        "edad": 19,
+        "correo": "vgaleano@cesde.net",
+        "telefono": "3009999999"
+    },
+    {
+        "documento": "2020",
+        "nombre": "ola",
+        "apellidos": "ola",
+        "edad": 22,
+        "correo": "dkx@.",
+        "telefono": "222"
+    }
+]
