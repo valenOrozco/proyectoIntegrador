@@ -30,5 +30,13 @@
         "edad": 1,
         "correo": "1.@",
         "telefono": "11"
+    },
+    {
+        "documento": "1111",
+        "nombre": "w",
+        "apellidos": "w",
+        "edad": 11,
+        "correo": ".@",
+        "telefono": "1"
     }
 ]
