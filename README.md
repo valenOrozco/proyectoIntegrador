@@ -38,7 +38,7 @@ En la primera entrega se desarrollarán las siguientes funcionalidades:
 ### Requisitos previos
 
 - Tener instalado Python (recomendado 3.8 o superior).
-- Instalar las dependencias necesarias
+- Recuerda instalar las dependencias necesarias y el interpreter de Python en tu entorno de desarrollo.
 
 ### Ejecución de la aplicación
 
@@ -49,13 +49,19 @@ En la primera entrega se desarrollarán las siguientes funcionalidades:
    ```
 2. Ejecuta el main:
    ```bash
-   main.py
+   py main.py
    ```
-
-### Ejecución de pruebas
-
-```bash
-py test.py
+3. Ejecuta la base de datos:
+   ```bash
+   py src/db.py
+   ```
+4. Genera la visualización de los datos:
+   ```bash
+   py src/visualizaciones.py
+   ```
+5. Ejecuta las pruebas:
+   ```bash
+   py test.py
    ```
 
 ---
