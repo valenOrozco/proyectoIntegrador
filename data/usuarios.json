@@ -14,5 +14,21 @@
         "edad": 22,
         "correo": "dkx@.",
         "telefono": "222"
+    },
+    {
+        "documento": "1032183981",
+        "nombre": "Luciana",
+        "apellidos": "Gómez",
+        "edad": 12,
+        "correo": "luci@gmail.com",
+        "telefono": "3008887783"
+    },
+    {
+        "documento": "11",
+        "nombre": "qq",
+        "apellidos": "qq",
+        "edad": 1,
+        "correo": "1.@",
+        "telefono": "11"
     }
 ]

@@ -84,7 +84,6 @@ def ver_respuestas(documento=None):
         print("\n⚠️ No hay encuestas registradas aún.")
         return
 
-    encabezado = filas[0]
     datos = filas[1:]
 
     if documento:
