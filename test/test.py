@@ -8,8 +8,8 @@ time.sleep(2)
 
 
 def test_carga():
-    df_encuestas = pd.read_csv('data/encuestas.csv')
-    df_usuarias = pd.read_json('data/usuarios.json')
+    df_encuestas = pd.read_csv('../data/encuestas.csv')
+    df_usuarias = pd.read_json('../data/usuarios.json')
     df_encuestas['documento'] = df_encuestas['documento'].astype(str)
     df_usuarias['documento'] = df_usuarias['documento'].astype(str)
     df_completo = pd.merge(df_encuestas, df_usuarias, on="documento", how="left")
